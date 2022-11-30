@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C -m 'SHOOL'
+file -C -m 'magic file'
